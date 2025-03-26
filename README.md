@@ -6,7 +6,7 @@ This project uses Machine Learning (ML) models to predict electric motor tempera
 
 📊 Dataset
 
-Source: [(https://www.kaggle.com/datasets/wkirgsn/electric-motor-temperature)]
+Source: [https://www.kaggle.com/datasets/wkirgsn/electric-motor-temperature]
 
 Features: Voltage, Current, Rotational Speed, Torque, Ambient Temperature
 

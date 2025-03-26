@@ -76,7 +76,7 @@ Predicted vs. Actual Temperatures:
 
 Clone this repository:
 
-git clone https://github.com/YOUR_USERNAME/motor-temperature-ml.git
+git clone https://github.com/AmrKhamis1/Electric-Motor-Temperature-Prediction.git
 cd motor-temperature-ml
 
 Install dependencies:

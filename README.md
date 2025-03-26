@@ -22,11 +22,13 @@ Handle missing values and outliers
 
 Normalize numerical features using StandardScaler
 
-Feature engineering (if applicable)
+Feature engineering
 
 2️⃣ Exploratory Data Analysis (EDA)
 
 Visualizations using matplotlib & seaborn
+
+![image](https://github.com/user-attachments/assets/49e9e293-b525-4fcf-aa17-18990250408f)
 
 Correlation heatmaps
 

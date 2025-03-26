@@ -8,9 +8,9 @@ This project uses Machine Learning (ML) models to predict electric motor tempera
 
 Source: [https://www.kaggle.com/datasets/wkirgsn/electric-motor-temperature]
 
-Features: Voltage, Current, Rotational Speed, Torque, Ambient Temperature
+Features: ['u_q', 'coolant','u_d', 'stator_tooth','motor_speed', 'i_d', 'i_q', 'pm', 'stator_yoke', 'ambient', 'torque']
 
-Target: Motor Temperature (°C)
+Target: ['stator_winding']
 
 🔬 Machine Learning Workflow
 
